@@ -1,0 +1,372 @@
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-size:22px;
+	color:#000000;
+	text-align:left;
+}
+h3 {
+	font-size: 18px;
+	color:#2d2c2c;
+	text-align:left;
+	background: url(../images/boxthumb-arrow.jpg) no-repeat left;
+	padding-left:30px;
+}
+
+h4{
+	font-size:14px;
+	color:#565656;
+	line-height:22px;
+}
+
+.mobiletop {
+	margin-top:0px;
+}
+
+.header {
+	min-height:155px;
+	border-bottom:1px #000000 solid;
+	margin-bottom:30px;
+}
+
+.logo {
+	margin-top:10px;
+	text-align:center;
+}
+
+.bottom {
+	margin-top:110px;
+	margin-bottom:0px;
+}
+
+.fl-right {
+	float:right;
+}
+
+.mgtop {
+	margin-top:30px;
+}
+
+.navbar {
+	min-height:0px;
+}
+
+.navtop>li {
+	float: left;
+	list-style:none;	
+}
+
+.navtop > li > a {
+	font-size:12px;
+	color:#999;
+	padding: 5px 15px;	
+}
+
+.nav > li > a {
+	padding: 5px 15px;	
+}
+ 
+.navbar-nav>li>a {
+	font-size:13px;
+	font-weight:bold;
+	color:#000000;
+	text-transform:uppercase;
+}
+
+.navbar-collapse {
+	padding-right:0px;	
+}
+
+.col-rightpd {
+	padding-right:0px;
+}
+
+.padleft {
+	padding-left:0px;	
+}
+
+.padright {
+	padding-right:0px;	
+}
+
+.box {
+	width:100%;
+	height:105px;
+	background:#ebe7e6;
+	margin-bottom:10px;	
+	padding-top:5px;
+}
+
+a.boxin {
+	width:88%;
+	height:75px;
+	min-height:75px;
+	margin:10px auto;
+	background:#323e4e;
+	vertical-align:middle;
+	display:block;
+}
+
+.navbar-toggle .icon-bar {
+	background:#333333;
+}
+
+.icon-track-lg {
+	background:url(../images/icon-track.png) no-repeat;
+	width:73px;
+	height:54px;
+	display:block;
+	float:left;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+.icon-quote-lg {
+	background:url(../images/icon-quote.png) no-repeat;
+	width:49px;
+	height:51px;
+	display:block;
+	float:left;
+	margin-left: 10px;
+	margin-top: 12px;
+}
+
+.icon-airline-lg {
+	background:url(../images/icon-airline.png) no-repeat;
+	width:58px;
+	height:60px;
+	display:block;
+	float:left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.icon-calculator {
+	background:url(../images/icon-calculator.png) no-repeat;
+	width:44px;
+	height:59px;
+	display:block;
+	float:left;
+	margin-left: 10px;
+	margin-top: 8px;
+}
+
+.box-title-track {
+	font-size:16px;
+	font-weight:bold;
+	color:#fff;
+	float:right;
+	text-align:right;
+	width:130px;
+	margin-top: 17px;
+	margin-right: 10px;
+}
+
+.box-title-quote {
+	font-size:16px;
+	font-weight:bold;
+	color:#fff;
+	float:right;
+	text-align:right;
+	width:140px;
+	margin-top:27px;
+	margin-right:10px;
+}
+
+.box-title-airline {
+	font-size:16px;
+	font-weight:bold;
+	color:#fff;
+	float:right;
+	text-align:right;
+	width:140px;
+	margin-top:15px;
+	margin-right:10px;
+}
+
+.box-title-calculator {
+	font-size:16px;
+	font-weight:bold;
+	color:#fff;
+	float:right;
+	text-align:right;
+	width:140px;
+	margin-top:15px;
+	margin-right:10px;
+}
+
+.box-img {
+	display:block;
+	margin-bottom:20px;
+	text-align:right;
+}
+
+.boxthumb {
+	padding-bottom:30px;
+	text-align:right;
+}
+
+.boxdiv {
+	width:268px;
+	height:auto;
+	min-height:215px;
+	padding-bottom:20px;
+	border-bottom:2px #ecebe9 solid;
+}
+
+.clientbox {
+	height:auto;
+	min-height:125px;
+	background:#ebe7e6;
+	padding:15px;
+	text-align:center;
+}
+
+.clientbox p {
+	font-size:12px;
+	font-weight:bold;
+	text-align:left;
+}
+
+#footer {
+	background:#333333;
+	padding-top:20px;
+}
+
+ul.footer {
+	-webkit-padding-start: 0px;
+	padding-left:0px;
+}
+
+ul.footer li {
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+
+ul.footer li a {
+	font-size:11px;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+address {
+	font-size:11px;
+	color:#fff;
+}
+
+.fa-block {
+	font-size:16px; 
+	color:#565656; 
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+.fa-block-last {
+	font-size:14px; 
+	color:#565656; 
+	font-weight:bold;
+	text-transform:uppercase
+}
+
+.fa-icon {
+	color:#afbbc1;
+	float:left;
+	margin-right:10px;
+}
+
+.fa-text {
+	padding-top:10px; 
+	display:block;
+}
+
+
+
+
+
+
+/*--------------------------------------MEDIA QUERIES-----------------------------------------*/
+/* Large Devices, Wide Screens */
+	@media only screen and (max-width : 1200px) {
+
+		
+	}
+
+	/* Medium Devices, Desktops */
+	@media only screen and (max-width : 992px) {
+	
+	}
+
+	/* Small Devices, Tablets */
+	@media only screen and (max-width : 768px) {
+.bottom {
+	margin-top:20px;
+	margin-bottom:0px;
+}
+
+.mobiletop {
+	margin-top:20px;
+}
+
+.navtop > li > a {
+	font-size:11px;
+}
+
+.navbar-nav>li>a {
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+	text-transform:uppercase;
+}
+
+.nav > li > a {
+	padding: 5px 8px;	
+}
+
+.padleft {
+	padding-left:15px;	
+}
+
+.padright {
+	padding-right:15px;	
+}
+
+
+	}
+
+	/* Extra Small Devices, Phones */ 
+	@media only screen and (max-width : 480px) {
+	
+	.mobiletop {
+		margin-top:20px;
+	}
+	
+	.fl-right {
+		float:none;
+	}
+	.navtop>li {
+		float: none;
+		list-style:none;	
+	}
+	}
+
+	/* Custom, iPhone Retina */ 
+	@media only screen and (max-width : 320px) {
+	.fl-right {
+		float:none;
+	}
+	
+	.mobiletop {
+		margin-top:20px;
+	}
+	
+	.navtop>li {
+		float: none;
+		list-style:none;	
+	}
+	}
